@@ -32,7 +32,7 @@ sections:
         height: auto
         width: wide
         margin:
-          - mt-9
+          - mt-7
           - mb-0
         padding:
           - pt-9
